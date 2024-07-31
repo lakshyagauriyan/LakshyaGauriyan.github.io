@@ -1,32 +1,24 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Welcome to my portfolio website! This site showcases my projects and accomplishments in the field of Data Analysis. Here, you will find a variety of projects that I have completed using tools and technologies such as Excel, SQL, Tableau, PowerBI, and Python. Additionally, you will find details of my internship projects completed during the Mentorness Data Analyst Internship Program.
+
+Table of Contents
+1. About Me
+2. Projects
+	a. Excel Projects
+	b. SQL Projects
+	c. Tableau Projects
+	d. PowerBI Projects
+	e. Python Projects
+	f. Mentorness Internship Projects
+3. Contact
 
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+About Me
+I am a passionate data analyst with experience in leveraging data-driven insights to make informed decisions. My expertise includes data manipulation, visualization, and interpretation using various tools and technologies. I am constantly learning and applying cutting-edge techniques to enhance my skills in the field of data science.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Contact
+Feel free to reach out to me for any inquiries or collaboration opportunities.
 
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Email: lakhyak40@gmail.com
+LinkedIn: https://www.linkedin.com/in/lakshyagauriyan/
+GitHub: https://github.com/lakshyagauriyan
+Thank you for visiting my portfolio website!
